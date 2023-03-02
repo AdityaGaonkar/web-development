@@ -1,0 +1,45 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: green;
+}
+h3{
+    color: red;
+}
+p{
+    color: orangered;
+}
+label{
+    color: gray ;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+#heading{
+    color: blue;
+}
+
+img:hover{
+    background-color: gold;
+}
+.bacon{
+    background-color: red;
+}
+.circular:hover{
+    background-color: gold;
+    border-radius: 100%;
+}
+.broccoli{
+    background-color: aliceblue;
+}
+#para1{
+    color: black;
+}
+#adi{
+    color: black;
+}
